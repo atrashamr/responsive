@@ -156,3 +156,9 @@ td:hover .price,td:hover .count ,td:hover p{
     width: 50px;
 
 }
+@media (max-width:900px)
+{
+    body{
+        height: 650px;
+    }
+}
